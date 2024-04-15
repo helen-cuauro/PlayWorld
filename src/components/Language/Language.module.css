@@ -1,0 +1,12 @@
+.img {
+  width: 1.5rem;
+}
+
+.img-container{
+  padding:0.5rem;
+}
+
+.active{
+  border-radius: 1.25rem;
+  border: 2px solid #6090FA;
+}

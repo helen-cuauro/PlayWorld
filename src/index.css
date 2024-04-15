@@ -1,0 +1,17 @@
+/* 1. Settings */
+@import url('https://fonts.googleapis.com/css2?family=Familjen+Grotesk&family=Inter&family=Nunito:wght@400;700&family=Pixelify+Sans:wght@400;600&family=Rubik+Mono+One&family=Source+Code+Pro&display=swap');
+
+@import url(1-settings/border.css);
+@import url(1-settings/color.css);
+@import url(1-settings/spacing.css);
+@import url(1-settings/typography.css);
+@import url(1-settings/width.css);
+
+/* 2. Generic */
+@import url(2-generic/reset.css);
+
+/* 3. Elements */
+@import url(3-elements/elements.css);
+
+/* 4. Objects */
+@import url(4-objects/objects.css);

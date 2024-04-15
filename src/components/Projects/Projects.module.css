@@ -1,0 +1,13 @@
+.projects{
+  max-width: 80rem;
+  margin-inline: auto;
+  padding: 4rem 1rem;
+}
+
+.wrapper{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+  align-items: center;
+}

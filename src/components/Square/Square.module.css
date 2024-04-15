@@ -1,0 +1,17 @@
+.square{
+  border: 1px solid #CBD5E1;
+  background-color: inherit;
+  width: 5.625rem;
+  height: 5.625rem;
+
+  color: #0F172A;
+  font-family: var(--rubik);
+  font-size: 3rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 3rem; /* 100% */
+}
+
+.green {
+  color: #16A34A;
+}
