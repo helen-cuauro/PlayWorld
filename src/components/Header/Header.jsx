@@ -14,7 +14,7 @@ function Header() {
     <header className={styles.container}>
       <div className={styles.header}>
         <h1 className={styles.title} onClick={handleIndex}>
-          React Showcase
+         PlayWorld
         </h1>
         {project && <span className={styles.project}>{project}</span>}
         <div className={styles["language-container"]}>
